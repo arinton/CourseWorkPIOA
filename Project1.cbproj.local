@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.267,C:\Users\samsa\Documents\Embarcadero\Studio\Projects\lab2.dfm=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,C:\Users\samsa\Documents\Embarcadero\Studio\Projects\lab2.h=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\Users\samsa\Desktop\курсач роботизированный комплекс\Project1.cbproj=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,C:\Users\samsa\Desktop\курсач роботизированный комплекс\main.h=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.669,=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,C:\Users\samsa\Documents\Embarcadero\Studio\Projects\main.dfm=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,C:\Users\samsa\Desktop\курсач роботизированный комплекс\main.dfm=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.167,C:\Users\samsa\Desktop\курсач роботизированный комплекс\Project1PCH2.h=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,C:\Users\samsa\Documents\Embarcadero\Studio\Projects\lab2.cpp=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,C:\Users\samsa\Documents\Embarcadero\Studio\Projects\main.cpp=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,C:\Users\samsa\Desktop\курсач роботизированный комплекс\main.cpp=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,C:\Users\samsa\Documents\Embarcadero\Studio\Projects\main.h=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,=C:\Users\samsa\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
